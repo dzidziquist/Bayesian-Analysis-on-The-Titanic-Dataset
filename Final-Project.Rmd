@@ -9,11 +9,6 @@ sansfont: Times New Roman
 
 
 
-![](download.png) 
-
-##  _Statistical Methods in Data Science and Laboatory II_
-
-### _Masters in Data Science_
 
 ## _Bayesian Analysis on The Titanic Dataset_
 
